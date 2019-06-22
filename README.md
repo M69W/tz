@@ -53,3 +53,8 @@ PHP7和SSL修正版
 ### X 探针（刘海探针）——开源 PHP 探针  
 [https://inn-studio.com/prober](https://inn-studio.com/prober)  
 [https://github.com/kmvan/x-prober](https://github.com/kmvan/x-prober)  
+
+
+### [基于workerman的雅黑探针](https://github.com/wwng2333/tz)  
+### [PHP 雅黑探针---Docker启动](https://github.com/malaohu/php-yahei-tz)  
+### [yahei-php-youqu/雅黑PHP探针有趣版](https://github.com/hdoodle/yahei-php-youqu)  
